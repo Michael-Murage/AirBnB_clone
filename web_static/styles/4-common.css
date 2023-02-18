@@ -1,0 +1,22 @@
+.container{
+    max-width: 1000px;
+    margin: 30px auto;
+    /* text-align: center; */
+    padding-bottom: 2.5rem;
+    height: 250%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 14px;
+    font-family: "Circular","Helvetica Neue",Helvetica,Arial,sans-serif;
+    position: relative;
+    min-height: 100vh;
+}
+*{
+    box-sizing: border-box;
+}
+html{
+    height: 100vh;
+}
